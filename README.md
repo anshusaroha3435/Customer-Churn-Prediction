@@ -61,6 +61,19 @@ Feature order:
 ```text
 Age → Tenure → MonthlyCharges → Gender
 ```
+## Model Performance
+
+The trained model achieved the following results:
+
+|Metric	      |Score         |
+|--------------|------------- |
+|Accuracy	    |85.50%        |
+|Precision   	|88.48%        |
+|Recall	      |96.02%        |
+|F1 Score	    |92.10%        |
+
+The high recall indicates that the model is effective at identifying customers who are likely to churn.
+
 
 ## Demo
 
